@@ -1,4 +1,4 @@
 # First-demo
 First demo repository in Github.
 <br>
-Author - Shreeja
+Author - Shreeja KS 
